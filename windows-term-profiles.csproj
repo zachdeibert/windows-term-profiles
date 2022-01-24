@@ -4,4 +4,10 @@
         <TargetFramework>net6.0</TargetFramework>
         <RootNamespace>Com.GitHub.ZachDeibert.WindowsTermProfiles</RootNamespace>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="ColorHelper" Version="1.6.0" />
+        <PackageReference Include="dotnet-curses" Version="1.0.2" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="StringTokenFormatter" Version="4.1.0" />
+    </ItemGroup>
 </Project>
